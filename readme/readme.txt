@@ -1,5 +1,2 @@
-modificamos
 
-
-
-Mis primeros pasos en Git
+son mis primeros pasos en Git
