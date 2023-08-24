@@ -235,3 +235,67 @@ print(F'''
         El envio es gratis: {envioLibro}
 ''')
 """
+"""
+# Imprimimos los numeros del 0 al 5 con el ciclo while
+
+maximo = 5
+contador = 0
+while contador <= maximo:
+    print(contador)
+    contador += 1
+"""
+"""
+minimo = 1
+contador = 5
+while minimo <= contador:
+    print(contador)
+    contador -=1
+"""
+
+# Ciclo For
+"""
+cadena = "Hello"
+for letra in cadena:
+    print(letra)
+else:
+    print("Fin del ciclo for")
+"""
+
+# Palabra reservada Break
+"""
+for letra in "Alemania":
+    if letra == "a":
+            print(f"La letra encontrada es: {letra}")
+            break
+else:
+    print("Fin de ciclo for")
+"""
+
+# Palabra reservada continue
+"""
+for i in range(6):
+    if i % 2 == 0:
+        print (f"Valor : {i}")
+
+for i in range(6):
+    if i % 2 != 0:
+        continue
+    print(f"Valor: {i} ")
+"""
+
+# Ejercicio Año Biciesto
+
+opcion = 1
+while opcion == 1:
+    num = int(input("Ingrese el numero de año :"))
+    if ((num % 4 == 0) and (num % 100 != 0 )) or (num % 400 == 0):
+        print("El año es biciesto")
+    else:
+        print("El año no es biciesto")
+    opcion = int(input("Ingreses la  opcion (1) para seguir adelante  :"))
+else:
+    print ("gracias")
+
+
+
+
