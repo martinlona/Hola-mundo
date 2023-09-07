@@ -23,12 +23,13 @@ public class EjercicioWhile01 {
             break;
             }
         }
-        
+        inicio: // Etiquetas Labels
          for( var contando =0; contando < 7; contando++){
             if (contando % 2 != 0){
-           continue;
+           continue inicio ;
             }
             System.out.println("contando = " + contando);
         }
+     
     }
 }

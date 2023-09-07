@@ -1,0 +1,22 @@
+[33m3f08a8d[m[33m ([m[1;36mHEAD -> [m[1;32mrama1[m[33m, [m[1;32mJavaScript[m[33m)[m HEAD@{0}: checkout: moving from JavaScript to rama1
+[33m3f08a8d[m[33m ([m[1;36mHEAD -> [m[1;32mrama1[m[33m, [m[1;32mJavaScript[m[33m)[m HEAD@{1}: checkout: moving from rama1 to JavaScript
+[33m3f08a8d[m[33m ([m[1;36mHEAD -> [m[1;32mrama1[m[33m, [m[1;32mJavaScript[m[33m)[m HEAD@{2}: commit: Clases de Java con Break, Continue y Labels
+[33m97e9b96[m HEAD@{3}: commit: Ingresamos las clase de Java con Ciclo While, Do While y For
+[33mf9f097d[m HEAD@{4}: commit: Ingresamos los ultimos ejercisio en Python, Java y Javascript
+[33me046088[m HEAD@{5}: commit: Ingresamos todas las actualizaciones de python
+[33mdd9290f[m HEAD@{6}: commit: Ingresamos nuestro proyecto de Python al repositorio
+[33m2ff9b08[m HEAD@{7}: commit: Ingresamos nuestra carpeta Java al commit
+[33m99fbf70[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{8}: checkout: moving from master to rama1
+[33m99fbf70[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{9}: checkout: moving from aac1d12075f1791a4ce157f7db1f561ab2be9f97 to master
+[33maac1d12[m HEAD@{10}: checkout: moving from 99fbf7089358981bb2efd90a52b60718b24cdf74 to aac1d12075f
+[33m99fbf70[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{11}: checkout: moving from 38280e5283e0b83f42473dc95614324405cfbae9 to 99fbf70893
+[33m38280e5[m HEAD@{12}: checkout: moving from master to 38280e5283
+[33m99fbf70[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{13}: checkout: moving from Master to master
+[33m99fbf70[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{14}: checkout: moving from aac1d12075f1791a4ce157f7db1f561ab2be9f97 to Master
+[33maac1d12[m HEAD@{15}: checkout: moving from master to aac1d12075f1791a4ce157f7db1f561ab2be9f97
+[33m99fbf70[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{16}: checkout: moving from master to master
+[33m99fbf70[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{17}: checkout: moving from master to master
+[33m99fbf70[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{18}: checkout: moving from master to master
+[33m99fbf70[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{19}: commit: actualizamos notas
+[33m38280e5[m HEAD@{20}: commit: aprendinedo nuevos comandos git
+[33maac1d12[m HEAD@{21}: commit (initial): mi primer commit con git
